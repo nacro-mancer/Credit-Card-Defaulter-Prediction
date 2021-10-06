@@ -34,7 +34,7 @@ The Data is aligned for 0 and 1 for all the Continuous variables, there are some
 
 ## Bivariate STATISTICAL Data Analysis 
 ### CAT Vs CONT. (ANOVA)
-CAT Vs CONT. (ANOVA)![image](https://user-images.githubusercontent.com/37978451/136268110-7f82425c-f259-4bf4-bb6c-8787a7653b44.png)
+![image](https://user-images.githubusercontent.com/37978451/136269169-cb62aab8-7e3d-49d0-929a-e72ed7fb900e.png)
 
 ### CONT. Vs CONT. (Chi-Sq.)
 ![image](https://user-images.githubusercontent.com/37978451/136268192-5fc7773c-7322-4f83-8da6-74217b455286.png)
