@@ -34,11 +34,10 @@ The Data is aligned for 0 and 1 for all the Continuous variables, there are some
 
 ## Bivariate STATISTICAL Data Analysis 
 ### CAT Vs CONT. (ANOVA)
-![image](https://user-images.githubusercontent.com/37978451/136269169-cb62aab8-7e3d-49d0-929a-e72ed7fb900e.png)
+![image](https://user-images.githubusercontent.com/37978451/136269383-efe95cd9-45e5-4d01-9727-6e4c9a673f26.png)
 
 ### CONT. Vs CONT. (Chi-Sq.)
-![image](https://user-images.githubusercontent.com/37978451/136268192-5fc7773c-7322-4f83-8da6-74217b455286.png)
-
+![image](https://user-images.githubusercontent.com/37978451/136269439-2f6d7fad-28f5-4c94-becd-9db1eab7bab1.png)
 ## Building a Machine Learning Models
 ### Logistic Regression
 The first model we trained the data through is Logistic regression.
@@ -55,6 +54,7 @@ Accuracy of the model on Testing Sample Data is 79%.
 Accuracy values for 10-fold Cross Validation: [0.78488855 0.78726453 0.7949588  0.78153667 0.79858518 0.8139894
 0.81851852 0.80676193 0.80587571 0.80334505]
 The final Average accuracy of the model is 80.00%.
+
 ![image](https://user-images.githubusercontent.com/37978451/136268393-e8b273ac-0ae2-490c-bbb9-fbc4f076a2a0.png)
 In the graph we can observe the feature importance.
 
@@ -101,7 +101,7 @@ The final Average accuracy of the model is 80.00%.
 
 In the graph we can observe the feature importance.
 ### KNN, SVM & Naive Bayes
-![image](https://user-images.githubusercontent.com/37978451/136268827-882a9752-f442-4f2f-bfe8-ecc8badd1a62.png)
+![image](https://user-images.githubusercontent.com/37978451/136269529-66cadfc0-15ca-43a6-a602-32ebaa297217.png)
 
 ## Observations
 From the predictor significance chart we can observe that the history of past payments specially the first payment (Apr 2005) is the most important factor to decide if the person will default his/her credit card payment or not.
