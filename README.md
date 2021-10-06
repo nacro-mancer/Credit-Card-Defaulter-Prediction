@@ -56,6 +56,7 @@ Accuracy values for 10-fold Cross Validation: [0.78488855 0.78726453 0.7949588  
 The final Average accuracy of the model is 80.00%.
 
 ![image](https://user-images.githubusercontent.com/37978451/136268393-e8b273ac-0ae2-490c-bbb9-fbc4f076a2a0.png)
+
 In the graph we can observe the feature importance.
 
 
